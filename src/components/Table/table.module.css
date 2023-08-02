@@ -1,0 +1,24 @@
+td {
+    text-align: right;
+    border-top: 1px solid #eaeaea;
+    width: 120px;
+    padding: 5px;
+    color: #1d1a1a;
+  }
+  th {
+    padding: 5px;
+    color: #707070;
+  }
+  .appLogo {
+    height: 25.94px;
+    width: 25.94px;
+    margin-right: 5px;
+  }
+  .thContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+
+  
