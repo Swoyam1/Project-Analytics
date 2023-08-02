@@ -4,9 +4,10 @@
 
 - ReactJS: A JavaScript library for building user interfaces.
 - Redux: A state management library for managing application state.
+- Redux Toolkit: A set of tools and best practices for reducing Redux boilerplate code and simplifying state management.
 - Fetch: For making HTTP requests to APIs.
-- Material-UI: UI component libraries for styling your app.
 - CSS Modules / Styled Components: Styling solutions for React components.
+- Git: A distributed version control system for tracking changes in your codebase.
 
 ## :rocket: Local Development
 
